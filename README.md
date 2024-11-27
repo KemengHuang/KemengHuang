@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kemeng Huang👋. I primarily focus on computer graphics and high-performance computing, particularly in the field of high-performance simulation.
 
 <!--
 **KemengHuang/KemengHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
